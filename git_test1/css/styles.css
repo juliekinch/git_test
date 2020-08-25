@@ -1,0 +1,14 @@
+/* Stjernen herunder betyder, at det inden for tuborgklammerne rammer alt i css-dokumentet*/
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+header {
+    width: 100%;
+}
+
+h1 {
+    color: green;
+}
